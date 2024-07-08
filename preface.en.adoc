@@ -1,24 +1,15 @@
-== Preface
+[[introduction]]
+== Introduction 
 
-// This section can contain not only a preface but other 'frontmatter' as well—particularly those called out in the AsciiDoctor user manual, including
+This is the second annual GBIF Work Programme and annual update to Implementation Plan 2023–2027 (WP24) presented under the https://doi.org/10.35035/doc-0kkq-0t82[Strategic Framework for 2023-2027^].
 
-=== Epigraph
+The work programmes of the current implementation plan are less granular than previous ones, with an emphasis on what will be delivered and achieved to enable the https://www.gbif.org/governance#_the-gbif-governing-board[GBIF Governing Board^] to assess whether implementation is on track. Specific tasks, events or contracts are presented as indicative, with the intention of enabling flexibility in how proposed outcomes are achieved, both within the Secretariat and through the collective efforts of GBIF’s nodes and partners.
 
-[quote, Tacitus]
-mihi, quanto plura recentium seu veterum revolvo, tanto magis ludibria rerum mortalium cunctis in negotiis obversantur.
+Each priority area contains up to four designated activities, as well as ongoing activities presenting work that continues across the five-year implementation plan. Activity areas for 2024 include only slight changes, with one activity area having been closed and two having been reworded to better reflect the indicative tasks.
 
-=== Abstract
+Some indicative tasks persist in 2023 because they require multiyear efforts to achieve the projected outcomes, while many new indicative tasks appear in this work programme. Activity areas and indicative tasks should be viewed through a five-year time frame as we work to achieve the overall mission of the 2023–2027 Strategic Framework.
 
-The special guide to something blar de blar blar blar.
+The 2024 GBIF budget funds WP24 and is detailed in a separate document presented to the Governing Board. Many indicative tasks described in WP24 include activities, such as external contracts and workshops, that are funded through core funding, which are noted in the text. And, as noted at the end of each activity section, supplementary funds have increased the scope of the activities of WP24, enabling GBIF to move further and faster towards its strategic objectives.
 
-=== Preface
-
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way.
-
-=== Acknowledgments
-
-This section may also be placed at the document’s end.
-
-=== Dedication
-
-Once again to Zelda
+https://orcid.org/0000-0002-5788-9010[**Joe Miller**^] +
+Executive Secretary, GBIF
