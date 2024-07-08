@@ -12,7 +12,7 @@
 *	GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
 *	GBIF-mediated data is fully integrated into national https://www.cbd.int/chm/[Clearing-House Mechanism^] (CHM) platforms as well as national reporting processes for the CBD
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Work with partners to ensure that GBIF contributes efficiently and transparently to the finalized monitoring framework of the https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-04-en.pdf[Kunming-Montreal Global Biodiversity Framework^] (GBF), particularly headline indicators on invasive alien species (Target 6), business disclosures (Target 15) and availability of data, information and knowledge (Target 21), and including expanded regional mechanisms to support funding and capacity pipelines
 * Analyse GBIF's relevance across all goals, targets and mechanisms of the GBF and incorporate the results within communication and nodes guidance materials (see also activities 3.1 and 3.2)
@@ -32,7 +32,7 @@
 * Relevance to multiple SDGs contributes to a broader funding base for GBIF both through project-based support and national contributions
 * National contributions and project-based support provide a broader funding base that increases GBIF’s relevance to the 2030 Agenda for Sustainable Development and SDGs
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Establish formal partnerships with key agencies to support GBIF’s relevance to the SDGs, in particular with regard to human health, food security (building on a Letter of Intent signed with the Plant Treaty in 2023), and climate change
 * Organize a joint meeting with the Ocean Biodiversity Information System (OBIS) to advance work on a marine biodiversity data strategy based on 2023 discussions, and recognizing GBIF's position as a partner in the Marine Life 2030 programme within the UN Decade on Ocean Science for Sustainable Development
@@ -48,7 +48,7 @@
 * GBIF’s role in providing data infrastructure essential to the work of the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES) is fully recognized and communicated
 * GBIF’s use in policy and decision processes is enhanced through partnerships and better communicated
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 - Develop implementation plan for renewed partnership with IPBES, including involvement in task forces, data support for assessments, and mobilization of priority data in response to knowledge gaps
 - Engage in the IPBES fast-track methodological assessment on monitoring biodiversity and ecosystem services, approved at the IPBES 10 plenary meeting in 2023 
@@ -67,7 +67,7 @@ NOTE: The proposed changes to the wording of this activity, which previously ref
 * Lending agreements prepared by financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
 * Private companies, trade associations and consultancies in all global regions recognize GBIF as the preferred platform to share primary biodiversity data gathered through impact assessments and monitoring
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Support implementation of the https://www.gbif.org/data4nature[Data4Nature^] initiative by developing targeted outreach, communication and training resources to engage multilateral development banks (MDBs) and development funding agencies and increase flows of business-sector data from environmental impact assessments, monitoring programmes and funded projects
 * Organize forum for MDBs and other potential Data4Nature partners to detail progress and encourage further participation at UN Biodiversity Conference (COP 16) or other relevant venue
