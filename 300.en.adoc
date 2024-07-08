@@ -6,15 +6,13 @@
 [[activity3-1]]
 === Activity 3.1: Communicating the value of GBIF
 
-NOTE: The proposed change to Activity 3.1 (previously "Making the business case for GBIF"), consolidates the communication tasks needed to support activities across all Priority Areas under a single broader activity.
-
 ==== Projected outcomes for 2027
 
 * The Secretariat, nodes and Heads of Delegation are equipped with robust materials to demonstrate GBIF’s value for money
 * Additional countries join or return to GBIF as Voting Participants
 * Additional funding agencies or foundations commit supplementary funds to support GBIF activities as part of the resource mobilization strategy
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Update the https://doi.org/10.15468/doc-6yp9-9885[GBIF Communications Strategy^], revising and revisiting key audiences and messages to account for changes and developments since its publication in 2015
 * Refresh messaging and materials across GBIF communication platforms to reflect and update key components of GBIF’s value to the network’s Participants, publishers, partners and stakeholders, including:
@@ -40,7 +38,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * GBIF nodes provide a strong and stable foundation for data mobilization and use through the network
 * The role of GBIF nodes as hubs for data mobilization and use is better understood and supported, especially at national level
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Refine the Node Awards programme based on lessons learned from its first year of operation
 * Update guidance and support materials for nodes, including:
@@ -64,7 +62,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse nations
 * Current Associate Participants have agreed pathways towards achieving or returning to voting participation
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Consolidate the nodes onboarding programme and scope possible onboarding actions for Heads of Delegation
 * Maintain and consolidate the regional support teams to complement and supplement the work of national nodes, and scope development of regional-level node support through associate partners
@@ -80,7 +78,7 @@ NOTE: The proposed change to Activity 3.1 (previously "Making the business case 
 * GBIF’s ongoing capacity support programmes are successfully concluded, and new support programmes are scoped
 * Additional training and guidance resouces are available to the community in multiple languages covering both data mobilization and data use
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Launch a continuation of the BID programme once contract is secured with the European Commission Directorate-General for International Partnerships, explore additional funding sources, and organize regional meetings in target regions (co-located with regional nodes meetings, where possible) 
 * Reevaluate the impact of the GBIF https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^] (CESP) and develop recommendations for improvements
