@@ -11,7 +11,7 @@
 *	Knowledge gaps are reduced by consolidating data coverage across the thematic areas of relevance
 *	GBIF’s relevance to research is enhanced, through increased recognition and uptake of GBIF mediated data among researchers across additional scientific disciplines
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 *	Commission an update to the systematic review of GBIF use in research (https://doi.org/10.1073/pnas.2018093118[Heberling et al. 2021^]) to identify trends in research uses for the 2020-2024 periods, deepen the analysis of methods and analytical approaches, and inform future support for priority thematic areas of relevance 
 * Advance collaborative activities across priority thematic areas of relevance based on recommendations from the Science Committee, including https://www.gbif.org/news/5z5ZYdbhG5CznrQjTZdKg7/gbif-ramps-up-support-of-information-needed-to-tackle-invasive-alien-species[establishing a task group on invasive alien species^] and engaging experts in agrobiodiversity
@@ -27,7 +27,7 @@
 
 * GBIF supports the evolution of fundamental data-driven biodiversity research and its application across methods, scales and disciplines in life and environmental sciences
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Consolidate prototype digital twins dependent on and coordinated by GBIF through partnership on https://biodt.eu/[BioDT^], support user-group testing of prototype twins and links to key biodiversity data infrastructures, and build connections between projects and initiatives through shared data and service dependencies (such as https://pureportal.inbo.be/en/projects/b-cubed-biodiversity-building-blocks-for-policy[B-Cubed^])
 * Improve GBIF’s capabilities to manage ecological data streams from key infrastructures and monitoring programmes, applying new data model to accommodate richer data (including absences based on complete species inventories) while designing data flows and outputs in planned workshop on the https://www.tdwg.org/community/osr/humboldt-extension/[TDWG Humboldt Extension^] (see also activities 4.3 and 4.4)
