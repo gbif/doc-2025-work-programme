@@ -10,7 +10,7 @@
 
 * GBIF-maintained software and informatics infrastructure provides high, ongoing levels of availability and performance thata keep pace with growth in data publication and use
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Retire the internal GBIF checklist database and replace it with https://www.checklistbank.org/[ChecklistBank^], and deploy corresponding updates to public GBIF APIs
 *	Maintain deployments of hosted portals and hosted data repositories (IPTs) 
@@ -30,7 +30,7 @@
 * The expanding GBIF community of users are fully supported by a responsive help desk team and improved technical documentation
 * The taxonomic and collections communities benefit from improvements in GBIF support to the https://www.gbif.org/grscicoll[Global Registry of Scientific Collections^] (GRSciColl) and the Catalogue of Life
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Establish a ticketing system to manage, prioritize and monitor help desk support 
 * Replace the GBIF Backbone Taxonomy with the extended release of the Catalogue of Life Checklist, produced using ChecklistBank
@@ -51,7 +51,7 @@
 * Improved capabilities for GBIF to handle ecological, collections, and phylogenetic data
 * Data reuse increased through more stable GBIF identifiers
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Align interfaces, functionality and software used in GBIF.org, hosted portals, the shared data pipeline project and the Living Atlases 
 * Improve ability for users to filter based on categories of dataset origins, including citizen science, eDNA and the business sector
@@ -75,7 +75,7 @@
 * The revised GBIF data model is matured and applicable for use
 * All controlled terms used in GBIF processing are managed in the vocabulary server
 
-==== Indicative tasks for 2024
+==== Indicative tasks for 2025
 
 * Mature the unified data model aiming to become a candidate standard within https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG)
 * Refine and test data publishing models for specimen data with community members
