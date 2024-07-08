@@ -1,0 +1,100 @@
+[[priority3]]
+== Priority Area 3: Community and Capacity
+
+*_Developing the GBIF network to meet future needs and challenges_*
+
+[[activity3-1]]
+=== Activity 3.1: Communicating the value of GBIF
+
+NOTE: The proposed change to Activity 3.1 (previously "Making the business case for GBIF"), consolidates the communication tasks needed to support activities across all Priority Areas under a single broader activity.
+
+==== Projected outcomes for 2027
+
+* The Secretariat, nodes and Heads of Delegation are equipped with robust materials to demonstrate GBIF’s value for money
+* Additional countries join or return to GBIF as Voting Participants
+* Additional funding agencies or foundations commit supplementary funds to support GBIF activities as part of the resource mobilization strategy
+
+==== Indicative tasks for 2024
+
+* Update the https://doi.org/10.15468/doc-6yp9-9885[GBIF Communications Strategy^], revising and revisiting key audiences and messages to account for changes and developments since its publication in 2015
+* Refresh messaging and materials across GBIF communication platforms to reflect and update key components of GBIF’s value to the network’s Participants, publishers, partners and stakeholders, including:
+** GBIF’s value to science, research and innovation, particularly in the priority thematic areas identified under Activity 1.1
+** GBIF’s role in supporting implementation and monitoring of the GBF and other biodiversity-related conventions
+** GBIF’s contribution to supporting the SDGs
+** The financial value of GBIF to science and society
+** The specific value that GBIF membership provides through exclusive services and opportunities for participating governments
+** GBIF’s position as a data infrastructure and network that supports open data and open science
+** GBIF’s record in managing effective capacity enhancement programmes that produce concrete results in mobilizing data demonstrating onward use through research citations, and documenting policy applications
+* Prepare a second series of animated videos on additional areas of GBIF relevance aligned with priority thematic campaigns
+* Produce an annual report summarizing progress toward implementing the new strategic framework in 2023
+* Capture and communicate the value of work carried out by GBIF volunteers (mentors, trainers, translators, ambassadors and other voluntary roles) and report to national nodes and delegations on the value of uncharged work from volunteers in their countries
+* Develop branding, launch and promote use of the ‘derived dataset’ tool to support and encourage more accurate citations and provide data publishers with more precise reporting on uses of their data in research and policy
+
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts and materials for communications strategy (€100,000 core funding); commission new set of animated videos (€25,000 core funding).
+
+[[activity3-2]]
+=== Activity 3.2: Support and strengthen GBIF nodes
+
+==== Projected outcomes for 2027
+
+* GBIF nodes provide a strong and stable foundation for data mobilization and use through the network
+* The role of GBIF nodes as hubs for data mobilization and use is better understood and supported, especially at national level
+
+==== Indicative tasks for 2024
+
+* Refine the Node Awards programme based on lessons learned from its first year of operation
+* Update guidance and support materials for nodes, including:
+** Alignment with the Participation and Engagement strategy
+** Further development of the nodes training curriculum
+** Review of the capacity self-assessment tool for Participant nodes
+** Guidelines on applying the CARE principles on indigenous data governance, following 2023 consultation
+** Guidelines on national approaches to handling sensitive species data, following 2023 analysis 
+* Following successful piloting in 2023, establish the  Technical Support Hour for Nodes as a permanent forum for community exchange and interaction, peer-to-peer training and problem-solving
+* Develop materials on the new data model for nodes to reuse and repurpose in engaging data holders
+* In consultation with nodes, explore opportunities to enable secondments and work exchange within the GBIF network
+* Develop a process for replicating the survey of national nodes to capture information on the value of national investment in the GBIF network
+
+** *Expected funding mechanisms and sources*: salaried staff, apart from: support for pilot secondment programme (€40,000 core funding).
+
+[[activity3-3]]
+=== Activity 3.3: Expand and strengthen national participation
+
+==== Projected outcomes for 2027
+
+* GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse nations
+* Current Associate Participants have agreed pathways towards achieving or returning to voting participation
+
+==== Indicative tasks for 2024
+
+* Consolidate the nodes onboarding programme and scope possible onboarding actions for Heads of Delegation
+* Maintain and consolidate the regional support teams to complement and supplement the work of national nodes, and scope development of regional-level node support through associate partners
+* Organize an in-person engagement event with the regional support team to strengthen participation in underrepresented parts of the Europe and Central Asia region (e.g. Central Asia, Caucasus, Balkans, Baltics)
+
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for regional support teams (€80,000 core funds for the Asia support team, supplementary funding from https://www.gbif.org/country/NO/participation[Norway^] and https://www.gbif.org/country/FI/participation[Finland^] for Priority Area 3 Special Purpose Fund, https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] through the BID programme); ECA regional engagement meeting costs (supplementary funds from Priority Area 3 Special Purpose Fund).
+
+[[activity3-4]]
+=== Activity 3.4: Develop capacity and skills
+
+==== Projected outcomes for 2027
+
+* GBIF’s ongoing capacity support programmes are successfully concluded, and new support programmes are scoped
+* Additional training and guidance resouces are available to the community in multiple languages covering both data mobilization and data use
+
+==== Indicative tasks for 2024
+
+* Launch a continuation of the BID programme once contract is secured with the European Commission Directorate-General for International Partnerships, explore additional funding sources, and organize regional meetings in target regions (co-located with regional nodes meetings, where possible) 
+* Reevaluate the impact of the GBIF https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^] (CESP) and develop recommendations for improvements
+* Update materials within GBIF training courses aligned with the new data model, adding new materials and use cases as appropriate
+
+** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts and BID regional meeting costs (supplementary funding from  https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] ) .
+
+=== Ongoing activities to support community and capacity
+
+* Organize annual calls for projects under the https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^] (CESP): €80,000 from core funds for 2024
+* Continue to support proposals for hosted portals, and to support the Living Atlases community including contribution towards the cost of a technical coordinator
+* Provide ongoing support for documentation, including formatting and translation capabilities
+* Operate effective communication channels that produce and disseminate news items and thematic content on GBIF.org and in social media, regular opt-in and publisher newsletters, and ongoing communications to the nodes
+* Continue cycle of biennial regional nodes meetings (€40,000 core funding to support 2024 meeting costs, other costs expected to be met from supplementary funds including BID)
+*	Organize events to engage GBIF Heads of Delegation and node managers attending other international meetings including through the CBD and IPBES
+* Coordinate work of volunteer mentors, ambassadors and regional support contractors 
+*	Support https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG) community through financial and organizational contributions towards annual meetings
