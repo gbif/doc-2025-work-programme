@@ -12,7 +12,7 @@
 
 ==== Indicative tasks for 2025
 
-* Complete the adoption of  https://www.checklistbank.org/[ChecklistBank^] as part of the core GBIF services with updated public GBIF APIs
+* Complete the adoption of https://www.checklistbank.org/[ChecklistBank^] as part of the core GBIF services for indexing checklist datasets, with updated public GBIF APIs and documentation
 *	Maintain deployments of https://www.gbif.org/hosted-portals[hosted portals^] and hosted data repositories (IPTs) 
 *	Maintain GBIF R (https://www.gbif.org/tool/81747/[rgbif^]) and Python (https://www.gbif.org/tool/OlyoYyRbKCSCkMKIi4oIT/[pygbif^]) libraries to follow changes in GBIF public interfaces and support outcomes, including eDNA engagement activities, sampling-event data and data cube capabilities to support the https://b-cubed.eu/[B-Cubed project^]
 *	Mature deployment and operation of software on the Kubernetes technology platform
@@ -33,7 +33,8 @@
 ==== Indicative tasks for 2025
 
 * Mature processes around the ticketing system to managing help desk requests, broadening to train and include regional and thematic contractors
-* Phase out global use of GBIF backbone, support migration of identifiers, and provide guidelines for contributing taxonomic data to the Catalogue of Life
+* Phase out the global use of the GBIF backbone taxonomy and replace it with the Catalogue of Life, providing support for migrating identifiers
+* Provide guidelines for publishing taxonomic checklists through GBIF to contribute towards improvement of the Catalogue of Life
 * Explore opportunities to connect with emerging systems that publish Digital Extended specimen data
 * Support content curation on GRSciColl, coordinate editor and user communities, and improve data processes as outlined in the https://scientific-collections.gbif.org/road-map[current GRSciColl roadmap^]
 * Expand the newly established https://techdocs.gbif.org/en/[technical documentation site^] with clearer guidelines relating to data quality, data-publishing processes and data formatting, including those related to the use of controlled vocabularies
