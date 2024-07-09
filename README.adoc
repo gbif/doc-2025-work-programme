@@ -1,7 +1,7 @@
 https://docs.gbif-uat.org/2025-work-programme/en/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Work Programme 2025]]
 https://doi.org/10.35035/doc-b226-sb32[image:https://zenodo.org/badge/DOI/10.35035/doc-b226-sb32.svg[doi:10.35035/doc-b226-sb32]]
 https://creativecommons.org/publicdomain/zero/1.0/[image:https://img.shields.io/badge/Deed-CC0-lightgrey.svg[CC0]]
-https://builds.gbif.org/job/doc-2024-work-programme/lastBuild/console[image:https://builds.gbif.org/job/doc-2024-work-programme/badge/icon[Build status]]
+https://builds.gbif.org/job/doc-2025-work-programme/lastBuild/console[image:https://builds.gbif.org/job/doc-2025-work-programme/badge/icon[Build status]]
 
 = GBIF 2025 Work Programme 
 
