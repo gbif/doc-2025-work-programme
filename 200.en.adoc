@@ -27,9 +27,9 @@
 
 ==== Projected outcomes for 2027
 
-*	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD)
 *	GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
-*	GBIF-mediated data is fully integrated into national https://www.cbd.int/chm/[Clearing-House Mechanism^] (CHM) platforms as well as national reporting processes for the CBD
+*	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD) and integrated into national platforms and reporting processes
+*	GBIF’s value in supporting the https://www.un.org/sustainabledevelopment/[UN Sustainable Development Goals^] (SDGs) is recognized and reinforced through strategic partnerships with relevant international organizations focused on climate change, food security, human health and well-being, and both terrestrial and marine biodiversity such as the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES)
 
 ==== Indicative tasks for 2025
 
