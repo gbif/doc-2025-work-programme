@@ -4,13 +4,12 @@
 *_Developing partnerships that benefit policy and society_*
 
 [[activity2-1]]
-=== Activity 2.1: Support implementation of the post-2020 Global Biodiversity Framework
+=== Activity 2.1: Expand and strengthen participation 
 
 ==== Projected outcomes for 2027
 
-*	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD)
-*	GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
-*	GBIF-mediated data is fully integrated into national https://www.cbd.int/chm/[Clearing-House Mechanism^] (CHM) platforms as well as national reporting processes for the CBD
+* GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse nations and Associate Participants have agreed pathways towards achieving or returning to voting participation
+*	National contributions and project-based support provide a broader funding base that increases GBIF’s relevance
 
 ==== Indicative tasks for 2025
 
@@ -24,13 +23,13 @@
 *** *Expected funding mechanisms and sources*: salaried staff apart from: travel to relevant meetings including COP16 (core funds); travel to workshops relating to data cube delivery (supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] B-Cubed project).
 
 [[activity2-2]]
-=== Activity 2.2: Support the 2030 Agenda for Sustainable Development
+=== Activity 2.2: Support the science-policy interface 
 
 ==== Projected outcomes for 2027
 
-* GBIF’s value in supporting the https://www.un.org/sustainabledevelopment/[UN Sustainable Development Goals^] (SDGs) is recognized and reinforced through strategic partnerships with relevant international organizations focused on climate change, food security, human health and well-being, and both terrestrial and marine biodiversity
-* Relevance to multiple SDGs contributes to a broader funding base for GBIF both through project-based support and national contributions
-* National contributions and project-based support provide a broader funding base that increases GBIF’s relevance to the 2030 Agenda for Sustainable Development and SDGs
+*	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD)
+*	GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
+*	GBIF-mediated data is fully integrated into national https://www.cbd.int/chm/[Clearing-House Mechanism^] (CHM) platforms as well as national reporting processes for the CBD
 
 ==== Indicative tasks for 2025
 
@@ -41,12 +40,12 @@
 *** *Expected funding mechanisms and sources*: salaried staff apart from: workshop costs for marine meeting (€10,000 core funds, possible supplementary funds to be identified); external contract for ESG report (€30,000 core funds).  
 
 [[activity2-3]]
-=== Activity 2.3: Support the science-policy interface
+=== Activity 2.3: Support nature-positive outcomes from decisions in the business, financial and productive sectors
 
 ==== Projected outcomes for 2027
 
-* GBIF’s role in providing data infrastructure essential to the work of the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES) is fully recognized and communicated
-* GBIF’s use in policy and decision processes is enhanced through partnerships and better communicated
+* Lending agreements prepared by financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
+*	Private companies, trade associations and consultancies in all global regions recognize GBIF as the preferred platform to share primary biodiversity data gathered through impact assessments and monitoring
 
 ==== Indicative tasks for 2025
 
@@ -56,24 +55,6 @@
 - Formalize partnerships with relevant organizations supporting the science-policy interface
 
 *** *Expected funding mechanisms and sources*: Salaried staff apart from: possible external contracts for filling IPBES knowledge gaps via the BID programme (supplementary funds from https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^]); external contract for student support to mine backlog from policy citation database (core funds). 
-
-[[activity2-4]]
-=== Activity 2.4: Support nature-positive outcomes from decisions in the business, financial and productive sectors
-
-NOTE: The proposed changes to the wording of this activity, which previously referred only to the private sector, recognize that the same approach applies to publicly owned corporations, financial institutions, and organizations in the productive sectors including agriculture, aquaculture, fisheries and forestry
-
-==== Projected outcomes for 2027
-
-* Lending agreements prepared by financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
-* Private companies, trade associations and consultancies in all global regions recognize GBIF as the preferred platform to share primary biodiversity data gathered through impact assessments and monitoring
-
-==== Indicative tasks for 2025
-
-* Support implementation of the https://www.gbif.org/data4nature[Data4Nature^] initiative by developing targeted outreach, communication and training resources to engage multilateral development banks (MDBs) and development funding agencies and increase flows of business-sector data from environmental impact assessments, monitoring programmes and funded projects
-* Organize forum for MDBs and other potential Data4Nature partners to detail progress and encourage further participation at UN Biodiversity Conference (COP 16) or other relevant venue
-* Continue engagement with the Task Force on Nature-related Financial Disclosures (TNFD), in particular with regard to the recommendation of a global nature-related public data facility to support corporate reporting for the Global Biodiversity Framework
-
-*** *Expected funding mechanisms and sources*: Salaried staff apart from: external contract to coordinate Data4Nature initiative (€45,000 core funds), meeting costs for forum (€40,000 core funds, potential supplementary funds from Data4Nature partners)
 
 [[activity2-ongoing]]
 === Ongoing activities to support policy and partnerships
