@@ -13,14 +13,11 @@
 
 ==== Indicative tasks for 2025
 
-* Work with partners to ensure that GBIF contributes efficiently and transparently to the finalized monitoring framework of the https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-04-en.pdf[Kunming-Montreal Global Biodiversity Framework^] (GBF), particularly headline indicators on invasive alien species (Target 6), business disclosures (Target 15) and availability of data, information and knowledge (Target 21), and including expanded regional mechanisms to support funding and capacity pipelines
-* Analyse GBIF's relevance across all goals, targets and mechanisms of the GBF and incorporate the results within communication and nodes guidance materials (see also activities 3.1 and 3.2)
-*	Explore the potential of 'data cube' delivery formats from GBIF to support further development of biodiversity indicators at national, regional and global levels
-*	Implement the partnership agreement with https://www.geobon.org/[Group on Earth Observations Biodiversity Observation Network^] (GEO BON), including joint promotion at CBD meetings, development of guidance for alignment of nodes and Biodiversity Observation Networks, and application of the new data model to support standardized observations
-*	Formalize GBIF’s position as a service provider for https://www.thegef.org/partners/gef-agencies[implementing agencies^] of the https://www.thegef.org/[Global Environment Facility^] (GEF)
-*	Improve GBIF connections and explore partnerships with other biodiversity-related conventions, such as the https://www.cms.int/[Convention on Migratory Species^] (CMS), the https://cites.org/[Convention on International Trade in Endangered Species of Wild Fauna and Fauna^] (CITES) and https://www.ramsar.org/[Ramsar Convention on Wetlands^], including through better coordination between GBIF nodes and national focal points
+* Maintain and consolidate the regional support teams to complement the work of nodes
+* Organize an in-person knowledge exchange meeting for all members of the regional support teams alongside the Global Nodes Meeting to align their services to the work of the national nodes and GBIF secretariat 
+* Following the engagement meeting held in 2024, organize a virtual course on GBIF formal Participation and establishing participant nodes for the Arab States
 
-*** *Expected funding mechanisms and sources*: salaried staff apart from: travel to relevant meetings including COP16 (core funds); travel to workshops relating to data cube delivery (supplementary funds: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en[Horizon Europe^] B-Cubed project).
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel.
 
 [[activity2-2]]
 === Activity 2.2: Support the science-policy interface 
@@ -33,11 +30,20 @@
 
 ==== Indicative tasks for 2025
 
-* Establish formal partnerships with key agencies to support GBIF’s relevance to the SDGs, in particular with regard to human health, food security (building on a Letter of Intent signed with the Plant Treaty in 2023), and climate change
-* Organize a joint meeting with the Ocean Biodiversity Information System (OBIS) to advance work on a marine biodiversity data strategy based on 2023 discussions, and recognizing GBIF's position as a partner in the Marine Life 2030 programme within the UN Decade on Ocean Science for Sustainable Development
-* Scope and commission an initial Environment and Social Governance (ESG) report relating to GBIF’s operational policies, including but not restricted to carbon and environmental footprints and gender, diversity and inclusion guidelines
+* Consolidate GBIFs position as a knowledge implementation partner within the Global Environment Facility programming 
+* Develop partnerships with key GBF indicator providers to facilitate the flow of GBIF-mediated data in those indicators, and explore the development of the GBIF-owned indicators on data gaps
+* Finalize the partnership agreement with Group on Earth Observations Biodiversity Observation Network (GEO BON), including joint promotion at CBD meetings, development of guidance for alignment of nodes and Biodiversity Observation Networks, and application of the new data model to support standardized observations
+* Develop a use case for the use of GBIF-mediated data for CITES
+* Develop strategy to engage with GBIF Heads of Delegation (HoDs), including onboarding programme, national outreach at GBIF events and international fora
+* Working with the OBIS-GBIF implementation committee to implement activities within the joint strategy and action plan
+* Establish formal partnerships with key agencies to support GBIF’s relevance to the SDGs
+* Continue development of Participation and Engagement Strategy and explore GBIF relevance to CBD regional centers
+* Renewal of the IUCN MoC to include improved integration of GBIF-mediated data with IUCN Red List and Invasive species work
+* Develop data cube use cases through the https://pureportal.inbo.be/en/projects/b-cubed-biodiversity-building-blocks-for-policy[B-Cubed project^]
+* Engage with the IPBES data and knowledge task force
+* Organize events to engage GBIF Heads of Delegation and node managers attending international fora
 
-*** *Expected funding mechanisms and sources*: salaried staff apart from: workshop costs for marine meeting (€10,000 core funds, possible supplementary funds to be identified); external contract for ESG report (€30,000 core funds).  
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: EC grant.
 
 [[activity2-3]]
 === Activity 2.3: Support nature-positive outcomes from decisions in the business, financial and productive sectors
@@ -49,17 +55,15 @@
 
 ==== Indicative tasks for 2025
 
-- Develop implementation plan for renewed partnership with IPBES, including involvement in task forces, data support for assessments, and mobilization of priority data in response to knowledge gaps
-- Engage in the IPBES fast-track methodological assessment on monitoring biodiversity and ecosystem services, approved at the IPBES 10 plenary meeting in 2023 
-- Refine capture of additional citations of the use of GBIF-mediated data in policy implementation and communicate key illustrative examples
-- Formalize partnerships with relevant organizations supporting the science-policy interface
+* Develop the Data4Nature initiative, including formation of multilateral development bank (MDB) working group, governance and funding model, capacity building framework and exploration of the use of https://www.gbif.org/hosted-portals[hosted portals^] within the initiative
 
-*** *Expected funding mechanisms and sources*: Salaried staff apart from: possible external contracts for filling IPBES knowledge gaps via the BID programme (supplementary funds from https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^]); external contract for student support to mine backlog from policy citation database (core funds). 
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: potential Special Purpose Fund. 
 
 [[activity2-ongoing]]
 === Ongoing activities to support policy and partnerships
 
-* Attend CBD meetings and engagement in consultations and working groups as an observer inter-governmental organization
-* Attend IPBES plenary meetings and actively engage in the IPBES Task Force on Data and Knowledge, as well as the IPBES Task Force on Capacity Building, in GBIF’s role as an IPBES strategic partner
-* Engage with GEO BON through participation in the Advisory Board and partnerships with regional and thematic BONs
+* Attend CBD meetings and engagement in consultations and working groups as an intergovernmental observer
+* Maintain GBIF's role as an IPBES strategic partner by engaging in its Task Force on Data and Knowledge and Task Force on Capacity Building
+* Participate in the Advisory Board of the https://geobon.org/[Group on Earth Observation Biodiversity Observation Network^] (GEO BON) and develop partnerships with regional and thematic BONs
 * Continue engagement with IUCN to implement the Memorandum of Cooperation, including regular imports of checklist data from the Red List of Threatened Species and the Global Register of Introduced and Invasive Species (GRIIS)
+* Continue engagement with the Restricted Access Data Working Group of TDWG
