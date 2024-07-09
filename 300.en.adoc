@@ -78,4 +78,4 @@
 * Continue cycle of biennial regional nodes meetings (€40,000 core funding to support 2024 meeting costs, other costs expected to be met from supplementary funds including BID)
 *	Organize events to engage GBIF Heads of Delegation and node managers attending other international meetings including through the CBD and IPBES
 * Coordinate work of volunteer mentors, ambassadors and regional support contractors 
-*	Support https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG) community through financial and organizational contributions towards annual meetings
+*	Support https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG) community through financial and organizational contributions towards annual meetings, including collaboration on the Datos Vivos/Living Data 2025 conference 
