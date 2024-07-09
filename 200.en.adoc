@@ -34,14 +34,13 @@
 * Develop partnerships with key GBF indicator providers to facilitate the flow of GBIF-mediated data in those indicators, and explore the development of the GBIF-owned indicators on data gaps
 * Finalize the partnership agreement with Group on Earth Observations Biodiversity Observation Network (GEO BON), including joint promotion at CBD meetings, development of guidance for alignment of nodes and Biodiversity Observation Networks, and application of the new data model to support standardized observations
 * Develop a use case for the use of GBIF-mediated data for CITES
-* Develop strategy to engage with GBIF Heads of Delegation (HoDs), including onboarding programme, national outreach at GBIF events and international fora
-* Working with the OBIS-GBIF implementation committee to implement activities within the joint strategy and action plan
+* Develop strategy to engage GBIF Heads of Delegation (HoDs) through an onboarding programme and joint outreach and activities at both GBIF events and international fora
+* Working with the OBIS-GBIF implementation committee to implement activities within the joint strategy and action plan, including collaboration on the Datos Vivos/Living Data 2025 conference
 * Establish formal partnerships with key agencies to support GBIF’s relevance to the SDGs
 * Continue development of Participation and Engagement Strategy and explore GBIF relevance to CBD regional centers
-* Renewal of the IUCN MoC to include improved integration of GBIF-mediated data with IUCN Red List and Invasive species work
+* Renew the IUCN MoC to include improved integration of GBIF-mediated data with IUCN Red List and Invasive Species Specialist Group
 * Develop data cube use cases through the https://pureportal.inbo.be/en/projects/b-cubed-biodiversity-building-blocks-for-policy[B-Cubed project^]
 * Engage with the IPBES data and knowledge task force
-* Organize events to engage GBIF Heads of Delegation and node managers attending international fora
 
 *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: EC grant.
 
