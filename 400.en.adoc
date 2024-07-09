@@ -8,7 +8,7 @@
 
 ==== Projected outcomes for 2027
 
-* GBIF-maintained software and informatics infrastructure provides high, ongoing levels of availability and performance thata keep pace with growth in data publication and use
+* GBIF-maintained software and informatics infrastructure provides high, ongoing levels of availability and performance that keep pace with growth in data publication and use
 
 ==== Indicative tasks for 2025
 
