@@ -9,8 +9,6 @@
 ==== Projected outcomes for 2027
 
 * The Secretariat, nodes and Heads of Delegation are equipped with robust materials to demonstrate GBIF’s value for money
-* Additional countries join or return to GBIF as Voting Participants
-* Additional funding agencies or foundations commit supplementary funds to support GBIF activities as part of the resource mobilization strategy
 
 ==== Indicative tasks for 2025
 
@@ -55,23 +53,7 @@
 ** *Expected funding mechanisms and sources*: salaried staff, apart from: support for pilot secondment programme (€40,000 core funding).
 
 [[activity3-3]]
-=== Activity 3.3: Expand and strengthen national participation
-
-==== Projected outcomes for 2027
-
-* GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse nations
-* Current Associate Participants have agreed pathways towards achieving or returning to voting participation
-
-==== Indicative tasks for 2025
-
-* Consolidate the nodes onboarding programme and scope possible onboarding actions for Heads of Delegation
-* Maintain and consolidate the regional support teams to complement and supplement the work of national nodes, and scope development of regional-level node support through associate partners
-* Organize an in-person engagement event with the regional support team to strengthen participation in underrepresented parts of the Europe and Central Asia region (e.g. Central Asia, Caucasus, Balkans, Baltics)
-
-** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts for regional support teams (€80,000 core funds for the Asia support team, supplementary funding from https://www.gbif.org/country/NO/participation[Norway^] and https://www.gbif.org/country/FI/participation[Finland^] for Priority Area 3 Special Purpose Fund, https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] through the BID programme); ECA regional engagement meeting costs (supplementary funds from Priority Area 3 Special Purpose Fund).
-
-[[activity3-4]]
-=== Activity 3.4: Develop capacity and skills
+=== Activity 3.3: Develop capacity and skills
 
 ==== Projected outcomes for 2027
 
@@ -86,6 +68,7 @@
 
 ** *Expected funding mechanisms and sources*: salaried staff apart from: external contracts and BID regional meeting costs (supplementary funding from  https://international-partnerships.ec.europa.eu/index_en[European Commission Directorate-General for International Partnerships^] ) .
 
+[[activity3-ongoing]]
 === Ongoing activities to support community and capacity
 
 * Organize annual calls for projects under the https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^] (CESP): €80,000 from core funds for 2024
