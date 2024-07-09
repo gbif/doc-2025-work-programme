@@ -66,4 +66,4 @@
 * Maintain GBIF's role as an IPBES strategic partner by engaging in its Task Force on Data and Knowledge and Task Force on Capacity Building
 * Participate in the Advisory Board of the https://geobon.org/[Group on Earth Observation Biodiversity Observation Network^] (GEO BON) and develop partnerships with regional and thematic BONs
 * Continue engagement with IUCN to implement the Memorandum of Cooperation, including regular imports of checklist data from the Red List of Threatened Species and the Global Register of Introduced and Invasive Species (GRIIS)
-* Continue engagement with the Restricted Access Data Working Group of TDWG
+* Continue engagement with the https://www.tdwg.org/community/dwc/sensitive-species/[TDWG Restricted Access Data Working Group^]
