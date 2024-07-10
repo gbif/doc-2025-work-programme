@@ -10,4 +10,4 @@ https://doi.org/10.35035/doc-h21p-zr08
 
 === Document control
 
-Nodes initial review draft, July 2024
+Nodes initial review draft, v0.1, July 2024
