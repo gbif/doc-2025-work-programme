@@ -54,13 +54,13 @@
 
 * Release new versions of GBIF.org and hosted portal software that provide equivalent functionality and use the same software stack 
 * Collect and address feedback from the open pilot phase of the eDNA Publishing Tool to prepare it for wider use
-* Explore feasibility of enabling services to search for occurrences within eDNA datasets using sequences and taxa to which the sequence aligns  (see also <<activity-1-3,§1.3>>)
+* Explore feasibility of enabling services to search for occurrences within eDNA datasets using sequences and taxa to which the sequence aligns  (see also <<activity1-3,§1.3>>)
 * Explore the collaborative development of a tool to publish phylogenetic trees with associated information, such as the material and related sequences
-* Advance capabilities for event-based search, based on prototype co-developed with the Atlas of Living Australia, and explore support for the Humboldt Extension for Ecological Inventories (see also <<activity-1-2,§1.2>> and <<activity-4-4,§4.4>>)
+* Advance capabilities for event-based search, based on prototype co-developed with the Atlas of Living Australia, and explore support for the Humboldt Extension for Ecological Inventories (see also <<activity1-2,§1.2>> and <<activity4-4,§4.4>>)
 * Start improving the representation of marine data in GBIF.org as outlined in the https://doi.org/10.35035/doc-e52v-5875[OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data^]
-* Improve ability for users to filter data based on categories of dataset origins, including citizen science, eDNA and the business sector (see also <<activity-2-4,§2.4>>)
-* Document recommendations for completing metadata and using stable identifiers for individuals (e.g. ORCID iDs), organizations (e.g. ROR IDs) and funders (e.g. OFR IDs), and index fields to enable aggregate views (see also <<activity-1-1,§1.1>>)
-* Explore implementation of outcomes from the task group on Indigenous data governance, such as adopting https://localcontexts.org/[Local Context labels^] at suitable levels within the GBIF infrastructure (see also <<activity-3-2,§3.2>>)
+* Improve ability for users to filter data based on categories of dataset origins, including citizen science, eDNA and the business sector (see also <<activity2-4,§2.4>>)
+* Document recommendations for completing metadata and using stable identifiers for individuals (e.g. ORCID iDs), organizations (e.g. ROR IDs) and funders (e.g. OFR IDs), and index fields to enable aggregate views (see also <<activity1-1,§1.1>>)
+* Explore implementation of outcomes from the task group on Indigenous data governance, such as adopting https://localcontexts.org/[Local Context labels^] at suitable levels within the GBIF infrastructure (see also <<activity3-2,§3.2>>)
 * Improve data quality by
 ** Integrating basic data quality checks into the IPT and implementing emerging publishing models and changes to Darwin Core
 ** Streamlining the processes developed for ensuring occurrenceID stability
@@ -79,7 +79,7 @@
 
 ==== Indicative tasks for 2025
 
-* Mature publishing model(s) for use,  start preparing technical and user documentation, and release an initial update to the Darwin Core Archive data format that satisfies https://www.gbif.org/new-data-model#_case-studies[case studies^] relating to Materials, Interactions, and Surveys and Monitoring (see also <<activity-1-2,§1.2>> and <<activity-4-3,§4.3>>).
+* Mature publishing model(s) for use,  start preparing technical and user documentation, and release an initial update to the Darwin Core Archive data format that satisfies https://www.gbif.org/new-data-model#_case-studies[case studies^] relating to Materials, Interactions, and Surveys and Monitoring (see also <<activity1-2,§1.2>> and <<activity4-3,§4.3>>).
 * Establish a TDWG task group under the https://www.tdwg.org/community/dwc/[Darwin Core Maintenance Group^], proposing the addition of high-level, habitat-relevant terms (Realm, Biome) and associated controlled vocabularies
 * Continue to accommodate newly interested communities  as part of the data model investigation
 * Continue to mature the unified data model and prepare it as a candidate standard within https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG)
