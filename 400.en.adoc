@@ -59,7 +59,7 @@
 * Advance capabilities for event-based search, based on prototype co-developed with the Atlas of Living Australia, and explore support for the Humboldt Extension for Ecological Inventories (see also <<activity-1-2,§1.2>> and <<activity-4-4,§4.4>>)
 * Start improving the representation of marine data in GBIF.org as outlined in the https://doi.org/10.35035/doc-e52v-5875[OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data^]
 * Improve ability for users to filter data based on categories of dataset origins, including citizen science, eDNA and the business sector (see also <<activity-2-4,§2.4>>)
-* Document recommendations for completing metadata and using stable identifiers for individuals (e.g. ORCID iDs), organizations (e.g. ROR IDs) and funders (e.g. OpenFunderRegistry IDs), and index fields to enable aggregate views (see also <<activity-1-1,§1.1>>)
+* Document recommendations for completing metadata and using stable identifiers for individuals (e.g. ORCID iDs), organizations (e.g. ROR IDs) and funders (e.g. OFR IDs), and index fields to enable aggregate views (see also <<activity-1-1,§1.1>>)
 * Explore implementation of outcomes from the task group on Indigenous data governance, such as adopting https://localcontexts.org/[Local Context labels^] at suitable levels within the GBIF infrastructure (see also <<activity-3-2,§3.2>>)
 * Improve data quality by
 ** Integrating basic data quality checks into the IPT and implementing emerging publishing models and changes to Darwin Core
