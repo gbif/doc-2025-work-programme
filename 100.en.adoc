@@ -48,7 +48,7 @@ GBIF’s relevance to research is enhanced, through increased recognition and up
 ==== Indicative tasks for 2025
 
 * Continue engagement and improve coverage and quality of data representation in GBIF from metabarcoding research and eDNA monitoring, expand interoperability with partner infrastructures
-* Improve and update guidance materials for data publishing and develop guidance for accessing DNA-derived data through GBIF
+* Improve and update guidance materials for data publishing and accessing DNA-derived data through GBIF
 * Strengthen collaborations with barcoding communities and operational taxonomic unit (OTU) libraries
 * Lead experiment towards an index of amplicon sequence variants (ASVs)
 * Analyse feasibility of a standard format for DNA-reference datasets capable of crediting taxonomic data holders for use of OTU names
