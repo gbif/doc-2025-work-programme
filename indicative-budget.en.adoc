@@ -21,4 +21,4 @@ All four Priority Area budgets (<<img-chart3,Figure 3>>) include costs for staff
 
 .Work Programme 2025 expense breakdown across the four Priority Areas.
 [#img-chart3]
-image::img/web/wp-graphs-01.svg[Breakdown of Work Programme expenses by Priority Area 2025,align="center"]
+image::img/web/wp-graphs-03.svg[Breakdown of Work Programme expenses by Priority Area 2025,align="center"]
