@@ -31,7 +31,8 @@
 
 ==== Indicative tasks for 2025
 
-* Complete prototype digital twins dependent on and coordinated by GBIF through partnership on https://biodt.eu/[BioDT^]report and disseminate lessons learnedContinue engagement and showcase representation of sampling-event data through GBIF; scale up data flows from ecological research, survey and monitoring data communities; improve and expand interoperability with partner infrastructures; and run workshops that broaden data publishing models and produce example datasets
+* Complete prototype digital twins dependent on and coordinated by GBIF through partnership on https://biodt.eu/[BioDT^]report and disseminate lessons learned
+* Continue engagement and showcase representation of sampling-event data through GBIF; scale up data flows from ecological research, survey and monitoring data communities; improve and expand interoperability with partner infrastructures; and run workshops that broaden data publishing models and produce example datasets
 * Run a data republication campaign to convert existing occurrence datasets and increase its value through use of the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]; develop tools and strategies for encouraging holders of survey and monitoring datasets not yet in GBIF to share them 
 * Contribute to development and updating of documentation, templates and training materials for publishing and accessing survey and monitoring data through GBIF
 
