@@ -8,7 +8,7 @@
 
 ==== Projected outcomes for 2027
 
-* GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse nations
+* GBIF national participation is expanded across currently under-represented regions, G20 economies and megadiverse countries
 * Current Associate Participants have agreed pathways towards achieving or returning to voting participation
 * GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
 
@@ -28,7 +28,7 @@
 ==== Projected outcomes for 2027
 
 *	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the CBD and integrated into national platforms and reporting processes 
-* GBIF’s value in supporting the https://www.un.org/sustainabledevelopment/UN Sustainable Development Goals^] (SDGs) is recognized and reinforced through strategic partnerships with relevant international organizations focused on climate change, food security, human health and well-being, and both terrestrial and marine biodiversity such as the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES)
+* GBIF’s value in supporting the https://www.un.org/sustainabledevelopment[UN Sustainable Development Goals^] (SDGs) is recognized and reinforced through strategic partnerships with relevant international organizations focused on climate change, food security, human health and well-being, and both terrestrial and marine biodiversity such as the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES)
 
 ==== Indicative tasks for 2025
 
@@ -57,9 +57,9 @@
 [[activity2-ongoing]]
 === Ongoing activities to support policy and partnerships
 
-* Attend CBD meetings and engage in consultations and working groups as an intergovernmental observer 
+* Attend CBD meetings and contribute to consultations and working groups as an intergovernmental observer 
 * Maintain GBIF’s role as an IPBES strategic partner by engaging in both its Task Force on Data and Knowledge and its Task Force on Capacity Building
 * Participate in the GEO BON Advisory Board and develop partnerships with regional and thematic Biodiversity Observation Networks (BONs)
 * Continue engagement with IUCN to implement the Memorandum of Cooperation, including regular imports of checklist data from the https://www.iucnredlist.org/[IUCN Red List of Threatened Species^] and the https://griis.org/[Global Register of Introduced and Invasive Species^] (GRIIS)
-* Continue engagement with the https://www.tdwg.org/community/dwc/sensitive-species/[TDWG Restricted Access Data Working Group^]
+* Continue participate in the https://www.tdwg.org/community/dwc/sensitive-species/[TDWG Restricted Access Data Working Group^]
 * Manage Participation processes relating to Heads of Delegation, including administration and communication
