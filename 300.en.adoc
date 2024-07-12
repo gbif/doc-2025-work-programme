@@ -68,12 +68,12 @@
 
 * Organize annual calls for projects under the Capacity Enhancement Support Programme (CESP): €80,000 from core funds for 2025
 * Support for new node managers through the node onboarding programme
-* Continue to support proposals to the hosted portal programme
+* Support proposals to the hosted portal programme
 * Support the Living Atlases community, including financial contribution to support a technical coordinator
-* Provide ongoing support for digital documentation and related community consultation processes
-* Operate effective communication channels that produce and disseminate news items and thematic content on GBIF.org, through publisher newsletters and via ongoing communications with nodes
-* Continue cycle of biennial regional nodes meetings with global node activities at GB32 and initiation of planning for regional meetings in 2026
+* Provide support for digital documentation and related community consultation processes
+* Operate effective communication channels that produce and disseminate news items and thematic content on GBIF.org, through publisher newsletters and other communications with nodes
+* Maintain cycle of biennial regional nodes meetings with global node activities at GB32 and initiation of planning for regional meetings in 2026
 * Coordinate work of volunteers, including mentors, ambassadors, translators and reviewers
-* Ongoing maintenance and development of GBIF's training curricula
+* Maintain and refine GBIF's training curricula
 * Support Biodiversity Information Standards (TDWG) community through financial and organizational contributions towards annual meetings, including collaboration on the Datos Vivos/Living Data 2025 conference
 * Provide regular technical support hours for nodes
