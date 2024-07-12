@@ -13,14 +13,14 @@
 
 ==== Indicative tasks for 2025
 
-*	Complete and coordinate publication of the peer-reviewed systematic review of GBIF-enabled research to identify usage trends in 2020–2024 to help prioritize outreach to thematic communities; 
+*	Complete and coordinate publication of the peer-reviewed systematic review of GBIF-enabled research to identify usage trends in 2020–2024 to help prioritize outreach to thematic communities
 * Coordinate preparation and publication of a collection of peer-reviewed papers describing key elements of the GBIF network and infrastructure
 * Engage high-priority thematic communities based on recommendations from the Science Committee and establish new consultations with with subject experts, data holders, data users and other stakeholders on key topics, including agrobiodiversity and biodiversity loss 
 * Cultivate and support discussions, knowledge exchange and engagement with and within thematic communities, both existing and new; ensure continued flows of data and up-to-date guidance; explore options for wider thematic reporting and discoverability
 * Consolidate data flows relating to vectors of human diseases through the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, EFSA's One Health / VectorNet collaboration; and updates of VectorBase while implementing  recommendations from the the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^] 
 * Explore the usability and accessibility of the GBIF infrastructure for researchers, initiate discussion with all stakeholders and provide recommendations for improvements to tools and processes
 
-*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: https://www.gatesfoundation.org/[Bill & Melinda Gates Foundation^]
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: Vector Atlas project.
 
 [[activity1-2]]
 === Activity 1.2: Advance GBIF’s contribution to latest biodiversity modelling approaches
@@ -31,12 +31,12 @@
 
 ==== Indicative tasks for 2025
 
-* Complete prototype digital twins dependent on and coordinated by GBIF through partnership on https://biodt.eu/[BioDT^]report and disseminate lessons learned
+* Complete prototype digital twins dependent on and coordinated by GBIF through partnership on https://biodt.eu/[BioDT^] report and disseminate lessons learned
 * Continue engagement and showcase representation of sampling-event data through GBIF; scale up data flows from ecological research, survey and monitoring data communities; improve and expand interoperability with partner infrastructures; and run workshops that broaden data publishing models and produce example datasets
 * Run a data republication campaign to convert existing occurrence datasets and increase its value through use of the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]; develop tools and strategies for encouraging holders of survey and monitoring datasets not yet in GBIF to share them 
 * Contribute to development and updating of documentation, templates and training materials for publishing and accessing survey and monitoring data through GBIF
 
-*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential EC grant and GEF-8 funds
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds
 
 [[activity1-3]]
 === Activity 1.3: Improve taxonomic balance and interoperability of biodiversity evidence in GBIF through DNA-derived nomenclatures, metabarcoding and eDNA data
@@ -52,7 +52,7 @@ GBIF’s relevance to research is enhanced, through increased recognition and up
 * Improve and update guidance materials for data publishing and accessing DNA-derived data through GBIF
 * Strengthen collaborations with barcoding communities and operational taxonomic unit (OTU) libraries
 * Lead experiment towards an index of amplicon sequence variants (ASVs)
-* Analyse feasibility of a standard format for DNA-reference datasets capable of crediting taxonomic data holders for use of OTU names
+* Analyse feasibility of a standard format for DNA-reference datasets that credits citations to contributors and publishers
 
 *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential EC grant and GEF-8 funds. 
 
