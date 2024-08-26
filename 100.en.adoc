@@ -15,10 +15,10 @@
 
 *	Complete and coordinate publication of the peer-reviewed systematic review of GBIF-enabled research to identify usage trends in 2020–2024 to help prioritize outreach to thematic communities
 * Coordinate preparation and publication of a collection of peer-reviewed papers describing key elements of the GBIF network and infrastructure
-* Engage high-priority thematic communities based on recommendations from the Science Committee and establish new consultations with with subject experts, data holders, data users and other stakeholders on key topics, including agrobiodiversity and biodiversity loss 
-* Cultivate and support discussions, knowledge exchange and engagement with and within thematic communities, both existing and new; ensure continued flows of data and up-to-date guidance; explore options for wider thematic reporting and discoverability
+* Engage high-priority thematic communities based on recommendations from the Science Committee and establish new consultations with with subject experts, data holders, data users and other communities on key topics, including agrobiodiversity, biodiversity loss and marine biodiversity (in collaboration with https://obis.net[Ocean Biodiversity Information System^] (OBIS))
+* Cultivate and support discussions, knowledge exchange and engagement with and within thematic communities, both existing and new; ensure continued flows of data and up-to-date guidance; explore options for wider thematic reporting and discoverability, including on data gaps and biases
 * Consolidate data flows relating to vectors of human diseases through the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, EFSA's One Health / VectorNet collaboration; and updates of VectorBase while implementing  recommendations from the the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^] 
-* Explore the usability and accessibility of the GBIF infrastructure for researchers, initiate discussion with all stakeholders and provide recommendations for improvements to tools and processes
+* Explore the usability and accessibility of the GBIF infrastructure for researchers, initiate discussion with all communities and provide recommendations for improvements to tools and processes
 
 *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: Vector Atlas project.
 
