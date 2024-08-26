@@ -15,7 +15,7 @@
 
 *	Complete and coordinate publication of the peer-reviewed systematic review of GBIF-enabled research to identify usage trends in 2020–2024 to help prioritize outreach to thematic communities
 * Coordinate preparation and publication of a collection of peer-reviewed papers describing key elements of the GBIF network and infrastructure
-* Engage high-priority thematic communities based on recommendations from the Science Committee and establish new consultations with with subject experts, data holders, data users and other communities on key topics, including agrobiodiversity, biodiversity loss and marine biodiversity (in collaboration with https://obis.net[Ocean Biodiversity Information System^] (OBIS))
+* Engage high-priority thematic communities based on recommendations from the Science Committee and establish new consultations with subject experts, data holders, data users and other communities on key topics, including agrobiodiversity, biodiversity loss and marine biodiversity (in collaboration with https://obis.net[Ocean Biodiversity Information System^] (OBIS))
 * Cultivate and support discussions, knowledge exchange and engagement with and within thematic communities, both existing and new; ensure continued flows of data and up-to-date guidance; explore options for wider thematic reporting and discoverability, including on data gaps and biases
 * Consolidate data flows relating to vectors of human diseases through the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, EFSA's One Health / VectorNet collaboration; and updates of VectorBase while implementing  recommendations from the the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^] 
 * Explore the usability and accessibility of the GBIF infrastructure for researchers, initiate discussion with all communities and provide recommendations for improvements to tools and processes
@@ -50,8 +50,8 @@ GBIF’s relevance to research is enhanced, through increased recognition and up
 
 * Continue engagement and improve coverage and quality of data representation in GBIF from metabarcoding research and eDNA monitoring, expand interoperability with partner infrastructures
 * Improve and update guidance materials for data publishing and accessing DNA-derived data through GBIF
-* Strengthen collaborations with barcoding communities and operational taxonomic unit (OTU) libraries
-* Lead experiment towards an index of amplicon sequence variants (ASVs)
+* Strengthen collaborations with DNA barcoding communities and reference sequence libraries, including those that use operational taxonomic units (OTU)
+* Lead experiment towards an index of marker gene sequences including DNA barcodes and amplicon sequence variants (ASVs)
 * Analyse feasibility of a standard format for DNA-reference datasets that credits citations to contributors and publishers
 
 *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential EC grant and GEF-8 funds. 
@@ -61,7 +61,7 @@ GBIF’s relevance to research is enhanced, through increased recognition and up
 
 * Explore and document data originator and data user needs in the GBIF network, across DNA data infrastructures, and in the eDNA community, including needs of international and national initiatives, of organizations, and of individual researchers
 * Build, develop and consult around survey and monitoring data to assess and understand community needs for sampling-event data 
-* Support community standards development for priority data areas—such as invasive and alien species, interactions, survey and monitoring data, and DNA—through TDWG and other standards platforms
+* Support community standards development for priority data areas—such as invasive and alien species, interactions, survey and monitoring data, and DNA—through TDWG and other standards communities
 * Communicate progress with DNA-derived, survey and monitoring, and other thematic communities to the GBIF network and partners
 * Maintain GBIF’s literature tracking programme to document and communicate the use of GBIF-mediated data in research 
 * Promote best practices in data citation using digital object identifiers (DOIs), through outreach to researchers and journal publishers
@@ -70,6 +70,6 @@ GBIF’s relevance to research is enhanced, through increased recognition and up
 * Capture needs and suggestions from research communities regarding the development of the GBIF data model
 * Ensure presence of GBIF representatives— including through Secretariat and node staff, regional contractors — at relevant scientific conferences with appropriate communication materials, presentations and training workshops
 * Run annual competitions through the https://www.gbif.org/ebbe[Ebbe Nielsen Challenge^] and https://www.gbif.org/graduate-researchers-award[Graduate Researchers Awards^]
-* Support GBIF network to integrate data and GBIF training into higher education programmes
-* Keep GBIF’s compliance with FAIR principles for scientific data management and stewardship under continuous review, with appropriate communication and certification for relevant projects and processes
+* Support GBIF network to integrate data and GBIF training into higher education programmes and professional development of the early career researchers of biodiversity
+* Maintain GBIF’s compliance with FAIR principles for scientific data management and stewardship under continuous review, with appropriate communication and certification for relevant projects and processes
 * Review and process datasets reported through the https://github.com/gbif/data-mobilization[Suggest a dataset tool^] to increase ingestion of thematic data into GBIF
