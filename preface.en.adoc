@@ -1,27 +1,20 @@
 [[introduction]]
 == Introduction 
 
-This first draft of the GBIF 2025 Work Programme aims to solicit the GBIF community’s feedback on the tasks that the Secretariat proposes support and prioritize during 2025. The document should be read as an update to the https://doi.org/10.35035/doc-b226-sb32[2024 Work Programme^] and the third year of implementing the strategic priorities outlined in the https://doi.org/10.35035/doc-0kkq-0t82[2023-2027 GBIF Strategic Framework^].
+This draft of the GBIF 2025 Work Programme is a decision document for the 31st meeting of GBIF Governing Board. It should be read as an update to the https://doi.org/10.35035/doc-b226-sb32[2024 Work Programme^] and the third year of implementing the strategic priorities outlined in the https://doi.org/10.35035/doc-0kkq-0t82[2023-2027 GBIF Strategic Framework^].
 
 As described in the previous work programmes, the approach of the implementation plan is to address the strategic priorities through several multi-year activities, each with projected outcomes over the five years. As this document is drafted just halfway through the previous year, the identification of indicative tasks for 2025 is necessarily tentative and based on our current projections for the progress of the indicative tasks agreed for 2024.
 
-Through this consultation draft, we will gather responses on the specific new tasks, emphasizing year-on-year continuity. Based on the feedback received, the Secretariat will consolidate this draft into the draft Work Programme presented to the Governing Board for approval at the GB31 meeting in October 2024.
-
-The draft indicates which activities we expect salaried staff will carry out and which through external contracts and/or non-salary expenses. For contracts and expenses, it indicates whether costs would be met from core funds or from supplementary funds and identifies, where possible, the current or potential funding source. A draft budget with greater detail than the <<indicative-budget>> below will be included in the draft shared with Heads of Delegation one month prior to GB31.
+The draft indicates which activities we expect salaried staff will carry out and which through external contracts and/or non-salary expenses. For contracts and expenses, it indicates whether costs would be met from core funds or from supplementary funds and identifies, where possible, the current or potential funding source. The 2025 GBIF budget funds WP25 and is detailed for the Governing Board in a separate document.
 
 Last year several small changes were made to Activities and Project Outcomes. This year, we propose to reorganize some Activities and Projected Outcomes in Priority Area 2: Policy and Partnerships and Priority Area 3: Community and Capacity.
 
 We recognize that our effort in enlarging national participation is closely aligned to our strategic outreach efforts under <<priority2,Priority Area 2: Policy and Partnerships>>. The work of <<priority3,Priority Area 3: Community and Capacity>> continues to focus on node managers and capacity enhancement. This does not diminish the importance of connecting all work streams, especially for activities that affect both Heads of Delegations and Node Managers. We are implementing improved cross team collaboration mechanisms to ensure communication.
 
-These proposed adjustments have led to the following changes:
+These adjustments have led to the following changes:
 
 *	The activity to https://docs.gbif.org/2024-work-programme/en/#activity3-3[“Expand and strengthen national participation”^] has moved from https://docs.gbif.org/2024-work-programme/en/#priority3[Priority Area 3: Community and Capacity^] to <<priority2,Priority Area 2: Policy and Partnerships>> and now appears as <<activity2-1,Activity 2.1>>. 
 *	We also have combined the previous Activities https://docs.gbif.org/2024-work-programme/en/#activity2-1[2.1^], https://docs.gbif.org/2024-work-programme/en/#activity2-2[2.2^] and https://docs.gbif.org/2024-work-programme/en/#activity2-3[2.3^] in Priority Area 2 into a single one, <<activity2-2,Activity 2.2: Support the science-policy interface>>. The projected outcomes under these activities have also been consolidated and rewritten.
 *	https://docs.gbif.org/2024-work-programme/en/#activity2-4[Activity 2.4^] has become <<activity2-3,Activity 2.3>>, but its content is unchanged.
 
-**Special Purpose Funds**: The Secretariat welcomes supplementary contributions from Participants to Special Purpose Funds (SPF) aligned to each Priority Area. These funds enable us to direct additional resources and move faster towards GBIF’s objectives, as demonstrated by the example of Norway and Finland, whose willingness to commit additional funds to the 2023 budget through a Special Purpose Fund for Priority Area 3 has enabled the recruitment of a new regional support team for Europe and Central Asia.  In 2024, we had multiple contributions to a Priority Area 4 SPF to support additional work on the https://scientific-collections.gbif.org/[Global Registry of Scientific Collections^] (GRSciColl) and https://www.checklistbank.org/[ChecklistBank^].
-
-We encourage Participants who can commit funds beyond their basic financial contribution to consider adding to a Special Purpose Fund and thereby accelerate GBIF’s work in one or more Priority Area. Of note, in addition to the activities funded in last year’s SPF, Participants might consider supporting new work lines around <<indicative-tasks-for-2025-8,Indigenous and Local Knowledge>> (<<priority3,Priority Area 3>>) or <<activity1-3,environmental DNA>> (<<priority1,Priority Area 1>>). The Secretariat welcomes all ideas.
-
-https://orcid.org/0000-0002-5788-9010[**Joe Miller**^] +
-Executive Secretary, GBIF
+https://orcid.org/0000-0002-5788-9010[**Joe Miller**^], Executive Secretary
