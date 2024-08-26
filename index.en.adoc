@@ -2,8 +2,8 @@
 :toc: left
 :toclevels: 2
 :numbered:
-:revnumber: 0.1
-:revdate: 12 July 2024
+:revnumber: 0.2
+:revdate: 30 August 2024
 :title-logo-image: img/logo-gbif.svg
 :icons: font
 :pagenums:
@@ -25,7 +25,5 @@ include::200.en.adoc[]
 include::300.en.adoc[]
 
 include::400.en.adoc[]
-
-include::indicative-budget.en.adoc[]
 
 include::colophon.en.adoc[]
