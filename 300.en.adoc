@@ -8,7 +8,7 @@
 
 ==== Projected outcomes for 2027
 
-* The GBIF network, its audiences and its wider stakeholder communities are equipped with robust evidence that demonstrates its value and relevance to science, policy and society
+* The GBIF network, its audiences and its wider communities are equipped with robust evidence that demonstrates its value and relevance to science, policy and society
 
 ==== Indicative tasks for 2025
 
@@ -39,6 +39,7 @@
 * Support the work of a task group on Indigenous data governance, including an in-person event alongside the Global Nodes Meeting and Training to facilitate discussion with the nodes
 * Develop additional modules for the node development curriculum, based on consultation with the nodes community
 * Roll out an updated capacity self-assessment tool for nodes based on review in 2024
+* Request community feedback to inform updates to the nodes guidance documents
 * Support participation by the nodes community in piloting tools and processes that emerge from the work on the new data model
 * Following the regional engagement meeting held in 2024, organize a virtual course on GBIF formal Participation and establishing participant nodes for the Arab States
 
