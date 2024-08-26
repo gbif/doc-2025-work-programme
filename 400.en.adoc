@@ -12,7 +12,7 @@
 
 ==== Indicative tasks for 2025
 
-* Complete the adoption of https://www.checklistbank.org/[ChecklistBank^] as part of the core GBIF services for indexing checklist datasets, with updated public GBIF APIs and documentation
+* Complete the adoption of https://www.checklistbank.org/[ChecklistBank^] as part of the core GBIF services for indexing checklist datasets, with updated public GBIF APIs and documentation. Engage with interested parties to explore how to best make use of ChecklistBank for their own needs.
 *	Maintain deployments of https://www.gbif.org/hosted-portals[hosted portals^] and hosted data repositories (IPTs) 
 *	Maintain GBIF R (https://www.gbif.org/tool/81747/[rgbif^]) and Python (https://www.gbif.org/tool/OlyoYyRbKCSCkMKIi4oIT/[pygbif^]) libraries to follow changes in GBIF public interfaces and support outcomes, including eDNA engagement activities, sampling-event data and data cube capabilities to support the https://b-cubed.eu/[B-Cubed project^]
 *	Mature deployment and operation of software on the Kubernetes technology platform
@@ -47,7 +47,7 @@
 ==== Projected outcomes for 2027
 
 * Improved user interface to GBIF.org
-* Improved capabilities for GBIF to handle ecological, collections, and phylogenetic data
+* Improved capabilities for GBIF to handle ecological, collections, paleontological and phylogenetic data
 * Data reuse increased through more stable GBIF identifiers
 
 ==== Indicative tasks for 2025
@@ -60,7 +60,7 @@
 * Start improving the representation of marine data in GBIF.org as outlined in the https://doi.org/10.35035/doc-e52v-5875[OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data^]
 * Improve ability for users to filter data based on categories of dataset origins, including citizen science, eDNA and the business sector (see also <<activity2-3,§2.3>>)
 * Document recommendations for completing metadata and using stable identifiers for individuals (e.g. ORCID iDs), organizations (e.g. ROR IDs) and funders (e.g. OFR IDs), and index fields to enable aggregate views (see also <<activity1-1,§1.1>>)
-* Explore implementation of outcomes from the task group on Indigenous data governance, such as adopting https://localcontexts.org/[Local Context labels^] at suitable levels within the GBIF infrastructure (see also <<activity3-2,§3.2>>)
+* Explore implementation of outcomes from the task group on Indigenous data governance, which may involve adopting https://localcontexts.org/[Local Context labels^] or alternative options at suitable levels within the GBIF infrastructure as the task group develops and clarifies its recommendations (see also <<activity3-2,§3.2>>)
 * Improve data quality by
 ** Integrating basic data quality checks into the IPT and implementing emerging publishing models and changes to Darwin Core
 ** Streamlining the processes developed for ensuring occurrenceID stability
