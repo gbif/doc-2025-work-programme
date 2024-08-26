@@ -15,8 +15,8 @@
 ==== Indicative tasks for 2025
 
 * Engage GBIF Heads of Delegation (HoDs) through joint outreach and activities at both GBIF events and international fora, including Datos Vivos/Living Data 2025 conference and the https://www.g20.org/en/tracks/sherpa-track/research-and-innovation[G20 Research Innovation Working Group ^]
-* Finalize the Participation and Engagement Strategy
-* Increase engagement with https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD) https://www.cbd.int/tsc/tscm/regionalcentres[regional and subregional support centres^]
+* Develop an Engagement Strategy to deliver expanded and coordinated approach to consolidating and retaining Voting Participation and to advance regional engagement
+* Increase engagement with https://www.cbd.int/[UN Convention on Biological Diversity^] (CBD) https://www.cbd.int/tsc/tscm/regionalcentres[regional and subregional support centres^] to collaborate and support shared technical and capacity-building objectives linked to regional strategies 
 * Consolidate GBIFs position as a knowledge implementation partner within the Global Environment Facility programming
 * Establish formal partnerships with key GEF implementing agencies to capture funding opportunities to strengthen national support and support for GBIF programmes (e.g. https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development^] (BID)) 
 
@@ -32,9 +32,9 @@
 
 ==== Indicative tasks for 2025
 
-* Develop partnerships with key indicator providers to the https://www.cbd.int/gbf[Kunming-Montreal Global Biodiversity Framework^] (GBF) to facilitate the flow of GBIF-mediated data in those indicators, and explore the development of the GBIF-owned indicators on data gaps
-* Develop, implement, review and finalize partnership agreements with key data partners including https://geobon.org/[GEO BON^] (Group on Earth Observation Biodiversity Observation Network), https://www.iucn.org/[International Union for the Conservation of Nature^] (IUCN), and https://obis.org/[Ocean Biodiversity Information System^] (OBIS)
-* Develop use cases for relevant multilateral environmental agreements including the https://www.ramsar.org/[Ramsar Convention on Wetlands^], https://cites.org/[CITES^] and the https://www.cms.int/[Convention on Migratory Species^] (CMS)
+* Develop partnerships with key indicator providers to the https://www.cbd.int/gbf[Kunming-Montreal Global Biodiversity Framework^] (GBF) to facilitate the flow of GBIF-mediated data in those indicators, including national reporting processes, and explore the development of the GBIF-owned indicators on data gaps
+* Develop, implement, review and finalize partnership agreements with key data partners including https://geobon.org/[GEO BON^] (Group on Earth Observation Biodiversity Observation Network), https://www.iucn.org/[International Union for the Conservation of Nature^] (IUCN) and OBIS
+* Working across the GBIF network, develop use cases for relevant multilateral environmental agreements including the https://www.ramsar.org/[Ramsar Convention on Wetlands^], https://cites.org/[CITES^] and the https://www.cms.int/[Convention on Migratory Species^] (CMS)
 * Develop data cube use cases through the the EU-funded project, https://b-cubed.eu/[Biodiversity Building Blocks for Policy^] (B-Cubed)
 * Engage with the IPBES data and knowledge task force
 
@@ -45,7 +45,7 @@
 
 ==== Projected outcomes for 2027
 
-* Lending agreements prepared by financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
+* Lending agreements prepared by private agencies, financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
 *	Private companies, trade associations and consultancies in all global regions recognize GBIF as the preferred platform to share primary biodiversity data gathered through impact assessments and monitoring
 
 ==== Indicative tasks for 2025
@@ -61,5 +61,5 @@
 * Maintain GBIF’s role as an IPBES strategic partner by engaging in both its Task Force on Data and Knowledge and its Task Force on Capacity Building
 * Participate in the GEO BON Advisory Board and develop partnerships with regional and thematic Biodiversity Observation Networks (BONs)
 * Continue engagement with IUCN to implement the Memorandum of Cooperation, including regular imports of checklist data from the https://www.iucnredlist.org/[IUCN Red List of Threatened Species^] and the https://griis.org/[Global Register of Introduced and Invasive Species^] (GRIIS)
-* Continue participate in the https://www.tdwg.org/community/dwc/sensitive-species/[TDWG Restricted Access Data Working Group^]
+* Continue to participate in the https://www.tdwg.org/community/dwc/sensitive-species/[TDWG Restricted Access Data Working Group^]
 * Manage Participation processes relating to Heads of Delegation, including administration and communication
