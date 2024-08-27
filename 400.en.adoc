@@ -12,7 +12,8 @@
 
 ==== Indicative tasks for 2025
 
-* Complete the adoption of https://www.checklistbank.org/[ChecklistBank^] as part of the core GBIF services for indexing checklist datasets, with updated public GBIF APIs and documentation. Engage with interested parties to explore how to best make use of ChecklistBank for their own needs.
+* Complete the adoption of https://www.checklistbank.org/[ChecklistBank^] as part of the core GBIF services for indexing checklist datasets, with updated public GBIF APIs and documentation
+* Engage audiences and target user groups who may benefit from using ChecklistBank’s tools and platform
 *	Maintain deployments of https://www.gbif.org/hosted-portals[hosted portals^] and hosted data repositories (IPTs) 
 *	Maintain GBIF R (https://www.gbif.org/tool/81747/[rgbif^]) and Python (https://www.gbif.org/tool/OlyoYyRbKCSCkMKIi4oIT/[pygbif^]) libraries to follow changes in GBIF public interfaces and support outcomes, including eDNA engagement activities, sampling-event data and data cube capabilities to support the https://b-cubed.eu/[B-Cubed project^]
 *	Mature deployment and operation of software on the Kubernetes technology platform
