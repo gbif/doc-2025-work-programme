@@ -19,7 +19,7 @@
 * Support and promote GBIF collaborations with OBIS, GEO BON and TDWG at the Datos Vivos/Living Data 2025 Conference aligned with GB32 in Colombia 
 * Plan and prepare processes for following up from the first GBIF ESG/sustainability baseline report (see https://docs.gbif.org/2024-work-programme/en/#indicative-tasks-for-2024-4[WP24 §2.2^])
 * Develop approach for national reporting on the annual value of volunteers to the GBIF network, possibly in connection with an update of the annual country reports
-* Sundown/offramp the _alliance for biodiversity knowledge_ 
+* Communicate how the GBIF Strategic Framework is taking on the role of the _alliance for biodiversity knowledge_ 
 
 ** *Expected funding mechanisms and sources*: core funds: salaried staff, communication materials and travel.
 
