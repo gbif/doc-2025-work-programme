@@ -36,7 +36,7 @@
 * Run a data republication campaign to convert existing occurrence datasets and increase its value through use of the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]; develop tools and strategies for encouraging holders of survey and monitoring datasets not yet in GBIF to share them 
 * Contribute to development and updating of documentation, templates and training materials for publishing and accessing survey and monitoring data through GBIF
 
-*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds.
 
 [[activity1-3]]
 === Activity 1.3: Improve taxonomic balance and interoperability of biodiversity evidence in GBIF through DNA-derived nomenclatures, metabarcoding and eDNA data
