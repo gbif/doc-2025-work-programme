@@ -36,7 +36,7 @@
 * Organize the second Node Awards programme, building on lessons learned from its first year 
 * Working with the NSG, scope a series of engagement and training events for nodes within the context of the Global Nodes Meeting and Training, GB32 and Datos Vivos/Living Data 2025 conference
 * Organize an in-person knowledge exchange meeting for all members of the regional support teams alongside the Global Nodes Meeting to align their services to the work of the national nodes and GBIF Secretariat 
-* Support the work of a task group on Indigenous data governance, including an in-person event alongside the Global Nodes Meeting and Training to facilitate discussion with the nodes
+* Support the work of a task group on Indigenous data governance  (see also <<activity4-3,§4.3>>), including an in-person event alongside the Global Nodes Meeting and Training to facilitate discussion with the nodes
 * Develop additional modules for the node development curriculum, based on consultation with the nodes community
 * Roll out an updated capacity self-assessment tool for nodes based on review in 2024
 * Request community feedback to inform updates to the nodes guidance documents
